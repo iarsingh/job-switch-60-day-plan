@@ -1,0 +1,102 @@
+AKHILESH RANJAN SINGH
+ML Platform & DevOps Engineer | GCP | Kubernetes | MLOps
+akhileshranjan.ks @gmail.com
++91-8002392976
+Noida, India
+Linkedin
+Github
+PROFESSIONAL SUMMARY
+ML Platform & DevOps Engineer with 6.7+ years of experience building cloud-native, Kubernetes-driven platforms across GCP, AWS, and Azure. Deep expertise in GKE operations, CI/ CD automation, Terraform IaC, observability engineering, and Python automation with hands-on specialization in MLOps and ML infrastructure, including production ML pipeline delivery using Kubeflow, MLflow, and Kubernetes on GCP.
+Seeking ML Platform, MLOps Infrastructure, or ML SRE roles where strong platform engineering depth directly accelerates ML system reliability, scalability, and delivery velocity.
+PROFESSIONAL EXPERIENCE
+ML
+Platform
+&
+DevOps
+Engineer
+,
+Capgemini,
+Noida
+•
+Improved ML pipeline reliability by 45% by containerizing Kubeflow training and serving workloads using Docker and Helm, enabling reproducible GitOps-based deployments across development, staging, and production environments.
+•
+Reduced ML model promotion lead time from 4 days to under 4 hours by building Kubernetes-native ML CI/ CD pipelines on Google Kubernetes Engine integrated with MLflow for experiment tracking, model versioning, and automated deployments.
+09/2024 – Present
+•
+Accelerated ML delivery velocity by 3x by developing self-service ML platform capabilities on GKE, including automated training workflows, artifact storage on Google Cloud GCS, and approval-based promotion pipelines.
+•
+Reduced inference p99 latency by 30% by optimizing Kubernetes autoscaling, GPU-enabled node pools, and workload configurations for scalable real-time ML inference services.
+•
+Built centralized observability solutions using the ELK Stack and OpenTelemetry practices, reducing incident detection time by 60% and improving MTTR by 45% across 30+ microservices.
+•
+Increased deployment frequency by 3x and enabled zero-downtime releases across 20+ services using CI/ CD pipelines built with Jenkins, GitHub Actions, and Kubernetes on GKE.
+•
+Improved platform reliability by 35% through SLI/ SLO-driven monitoring, proactive alerting, intelligent health-check automation, and anomaly-based alert tuning.
+•
+Strengthened cloud-native security and governance by implementing Kubernetes RBAC, IAM controls, Terraform-based infrastructure automation, and MLflow model lineage tracking for audit-ready environments.
+Senior
+Software
+Engineer
+–
+DevOps
+,
+Tech
+Mahindra,
+Mumbai
+• Improved deployment reliability by 55% by building enterprise CI/ CD pipelines integrating Jenkins, Docker, GitHub Actions, and Terraform across GKE, AKS, and EKS multi-cloud Kubernetes clusters.
+• Reduced manual operational effort by 70% by authoring Python automation scripts for infrastructure lifecycle management, log analysis, and automated incident triage workflows.
+07/2022 – 09/2024
+• Maintained 99.9% platform uptime across 3 cloud environments (GCP, AWS, Azure) by operating multi-cloud Kubernetes clusters with proactive metrics monitoring, cutting on-call escalation rate by 40%.
+• Improved secrets and access security compliance to 100% by enforcing DevSecOps practices including Kubernetes RBAC, Vault-based secrets management, and vulnerability scanning across the full CI/ CD pipeline.
+System
+Engineer
+–
+Cloud
+&
+DevOps
+,
+TCS,
+Bengaluru
+• Achieved 99.8% uptime for containerised workloads by managing Kubernetes (GKE) clusters with automated scaling, health monitoring, and SLA-adherent alerting and incident workflows.
+• Reduced on-prem-to-cloud migration downtime to under 2 hours per workload by designing phased migration playbooks for 15+ services using Jenkins and Cloud Build CI/ CD pipelines.
+09/2019 – 07/2022
+• Decreased build and release cycle time by 30% by optimising Jenkins pipeline configurations with parallel execution stages, Docker layer caching, and automated artifact management.
+TECHNICAL SKILLS
+MLOps & ML Infrastructure
+MLflow, Kubeflow, Vertex AI Pipelines, Vertex AI Model Monitoring, Kubernetes-native ML pipelines (GKE), Model Registry & Lineage Tracking, ML Model Deployment, GCS Artifact Storage, Inference Autoscaling (HPA), GPU Workload Scheduling
+Containers & Orchestration
+Kubernetes, Docker, Helm Charts
+Infrastructure as Code
+Terraform, Ansible
+Programming & Scripting
+Python, Bash, Go, REST API Integration, Automation Tooling
+Cloud Platforms
+Google Cloud Platform (GCP), AWS , Azure
+CI/CD & GitOps
+Jenkins, GitHub Actions, GitLab CI/ CD, Google Cloud Build, ArgoCD, GitOps
+Monitoring & Observability
+ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, OpenTelemetry,
+Databases & Messaging
+PostgreSQL, MySQL, MongoDB, Redis, Apache Kafka, Google Cloud Pub/ Sub,
+CERTIFICATIONS
+•
+Google Professional Cloud DevOps Engineer — 2025
+•
+Google Professional Cloud Network Engineer — 2025
+•
+Google Associate Cloud Engineer — 2024
+•
+Microsoft DevOps Engineer Expert (AZ-400) — 2024
+•
+AWS Solutions Architect Associate — 2022
+EDUCATION
+Bachelor
+of
+Engineering
+–
+Computer
+Science
+,
+RGPV,
+Bhopal
+2019

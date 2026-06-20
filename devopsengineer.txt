@@ -1,0 +1,104 @@
+AKHILESH RANJAN SINGH
+DevOps Engineer | GCP | Kubernetes | Terraform | CI/CD
+akhileshranjan.ks
+@gmail.com
++91-8002392976
+Noida, India
+Linkedin
+Github
+PROFESSIONAL SUMMARY
+DevOps Engineer with 6.9+ years of experience designing, automating, and managing cloud-native infrastructure across Google Cloud Platform (GCP), AWS, and Azure. Expertise in Kubernetes, Terraform, CI/CD automation, Infrastructure as Code, cloud security, monitoring, and platform operations.
+Hands-on experience with GKE, Cloud Run, Cloud Build, GitLab CI/CD, Jenkins, Docker, Helm, Ansible, and Python automation. Proven track record of delivering scalable, secure, and highly available cloud solutions while improving deployment efficiency, operational reliability, and infrastructure automation.
+TECHNICAL SKILLS
+Cloud Platforms
+Google Cloud Platform (GCP), AWS , Azure
+CI/CD & GitOps
+Jenkins, GitHub Actions, GitLab CI/CD, Google Cloud Build, ArgoCD, GitOps
+Networking & Security
+Cloud Armor, WAF, Load Balancers, IAM, RBAC, Prisma Cloud, IONIX, Stream Security,
+Programming & Scripting
+Python, Bash, Go, REST API Integration, Automation Tooling
+Containers & Orchestration
+Kubernetes, Docker, Helm Charts
+Infrastructure as Code
+Terraform, Ansible
+Monitoring & Observability
+ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, OpenTelemetry,
+Databases & Messaging
+PostgreSQL, MySQL, MongoDB, Redis, Apache Kafka, Google Cloud Pub/Sub,
+PROFESSIONAL EXPERIENCE
+Platform
+Engineer
+,
+Capgemini,
+Noida
+• Designed and deployed cloud infrastructure on GCP using Terraform Enterprise and Infrastructure as Code practices, enabling scalable and repeatable deployments across multiple environments.
+• Built reusable Terraform modules for networking, IAM, Kubernetes, monitoring, logging, load balancing, and security services, reducing infrastructure provisioning effort by 70%.
+09/2024 – Present
+• Automated provisioning and lifecycle management of GCP resources including GKE, Cloud Run, IAM, VPCs, Load Balancers, Cloud Armor, Cloud Monitoring, and Logging.
+• Developed CI/CD pipelines using GitLab and Harness to automate application and infrastructure deployments, improving release velocity and deployment consistency.
+• Managed production Kubernetes (GKE) environments including cluster provisioning, upgrades, workload deployments, autoscaling, troubleshooting, and platform optimization.
+• Designed and implemented Google Cloud Armor security policies including WAF rules, rate limiting, Adaptive Protection, threat intelligence controls, and custom security rules.
+• Configured Global HTTP(S) Load Balancers with custom request and response header policies to enhance security, compliance, and traffic management.
+• Led PoC and integration of cloud security platforms including IONIX and Stream Security, improving cloud security posture, vulnerability visibility, compliance monitoring, and external attack surface management.
+• Integrated cloud governance, IAM standards, compliance controls, and security guardrails through Infrastructure as Code and automation.
+• Improved observability using Prometheus, Grafana, ELK Stack, OpenTelemetry, and Google Cloud Operations Suite, enabling proactive monitoring and faster incident detection.
+• Reduced operational overhead through automation, proactive alerting, incident management, root cause analysis, and platform standardization.
+Senior
+Software
+Engineer
+–
+DevOps
+,
+Tech
+Mahindra,
+Mumbai
+• Designed and implemented enterprise CI/CD platforms using Jenkins, GitHub, Bitbucket, Terraform, Ansible, Docker, Kubernetes, and Helm, improving deployment reliability and release efficiency across multi-cloud environments.
+• Built and managed Infrastructure as Code solutions using Terraform and Ansible for provisioning, configuration management, backup automation, and disaster recovery across GCP, AWS, and Azure.
+07/2022 – 09/2024
+• Deployed and managed containerized applications on Kubernetes using Helm Charts and Docker images, enabling scalable and standardized application delivery.
+• Implemented DevSecOps practices by integrating security controls, Prisma Cloud, SAST/DAST scanning, RBAC, IAM governance, secrets management, and vulnerability remediation into CI/CD workflows.
+• Engineered enterprise backup and disaster recovery solutions using Veeam and Kasten K10, ensuring business continuity and data protection for critical workloads.
+• Developed proactive monitoring, logging, and alerting solutions using ELK Stack and cloud-native tools, improving platform visibility and reducing incident resolution time.
+• Automated operating system patching, application deployment, and configuration management for Linux and Windows workloads across GCP, AWS, and Azure.
+• Managed JFrog Artifactory repositories and software supply chain processes supporting secure artifact storage and release management.
+• Collaborated with Google, Microsoft, and AWS engineering teams to troubleshoot complex infrastructure issues and optimize cloud platform performance.
+• Maintained highly available Kubernetes platforms across GCP, AWS, and Azure, achieving 99.9% service availability through proactive monitoring and operational excellence.
+System
+Engineer
+–
+Cloud
+&
+DevOps
+,
+TCS,
+Bengaluru
+• Managed production Kubernetes (GKE) environments supporting business-critical applications with 99.8% service availability.
+• Automated CI/CD workflows using Jenkins, Cloud Build, and Infrastructure as Code practices, reducing deployment effort by 40%.
+09/2019 – 07/2022
+• Provisioned and maintained cloud infrastructure on GCP using Terraform and automation scripts, improving deployment consistency and operational efficiency.
+• Implemented monitoring, alerting, and incident response processes using cloud-native observability tools, reducing issue resolution time.
+• Supported application migration initiatives from on-premises environments to GCP, improving scalability, reliability, and operational performance.
+• Collaborated with development, infrastructure, and security teams to implement cloud governance, IAM controls, and platform standards.
+• Performed Linux administration, troubleshooting, patching, and production support for containerized workloads and distributed systems.
+• Contributed to platform reliability through capacity planning, performance optimization, root cause analysis, and operational readiness reviews.
+CERTIFICATIONS
+•
+Google Professional Cloud DevOps Engineer — 2025
+•
+Google Professional Cloud Network Engineer — 2025
+•
+Google Associate Cloud Engineer — 2024
+•
+Microsoft DevOps Engineer Expert (AZ-400) — 2024
+EDUCATION
+Bachelor
+of
+Engineering
+–
+Computer
+Science
+,
+RGPV,
+Bhopal
+2019

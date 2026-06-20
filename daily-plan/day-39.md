@@ -1,0 +1,55 @@
+# Day 39: ML model serving with FastAPI and containers
+
+## Phase
+
+MLOps and AI Infrastructure
+
+## Main Focus
+
+ML model serving with FastAPI and containers
+
+## Coding Question
+
+Write a FastAPI `/predict` endpoint that accepts JSON and returns a dummy prediction.
+
+### Coding Answer Notes
+
+```text
+Problem:
+Approach:
+Code/file created:
+Time complexity:
+Edge cases:
+What I learned:
+```
+
+## Scenario-Based Interview Question
+
+How do you serve an ML model in production?
+
+### Scenario Answer Notes
+
+```text
+Situation/context:
+First checks:
+Commands/tools:
+Root-cause path:
+Fix:
+Prevention:
+Business impact:
+```
+
+## Daily Execution Checklist
+
+- [ ] Complete learning block
+- [ ] Solve coding question
+- [ ] Speak scenario answer out loud
+- [ ] Improve one project or resume item
+- [ ] Apply to 2 targeted roles
+- [ ] Send 2 referral/recruiter messages
+- [ ] Update application tracker
+- [ ] Add notes to daily log
+
+## Notes
+
+- 
