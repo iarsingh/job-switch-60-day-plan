@@ -1,5 +1,24 @@
 # 60-Day Job Switch Plan
 
+<!-- project-guide:start -->
+## Project guide
+
+[Project architecture](PROJECT_ARCHITECTURE.md) · [Interview questions and answers](INTERVIEW_QA.md)
+
+Use the architecture document for the component diagram, implementation boundaries, and verification entry points. The interview guide includes source-backed answers and project walkthroughs.
+
+### Implementation map
+
+| Component | Responsibility |
+| --- | --- |
+| [`60-day-plan.md`](60-day-plan.md) | Project explanations or operating notes |
+| [`README.md`](README.md) | Project explanations or operating notes |
+| [`application-tracker.md`](application-tracker.md) | Project explanations or operating notes |
+
+Setup and examples are described in the existing project notes below. Consult the component-specific manifests before assuming a single launch command.
+
+<!-- project-guide:end -->
+
 This repo is your operating system for switching into a better DevOps, MLOps, Cloud, or AI Infrastructure role during a 60-day notice period.
 
 ## Target Roles
