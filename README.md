@@ -86,3 +86,11 @@ Minimum daily output:
 - Every project must have a strong README, architecture diagram, commands, screenshots, and interview talking points.
 - Referrals beat cold applications. Spend daily time on people, not only portals.
 - Track everything. If it is not tracked, it will disappear.
+
+## Documentation checks
+
+Project architecture, interview guides, and local source links are checked automatically on pushes and pull requests. Run the same check locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
