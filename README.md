@@ -1,5 +1,12 @@
 # 60-Day Job Switch Plan
 
+## Overview
+
+A 60-day plan for moving into a DevOps, MLOps, cloud infrastructure, platform or AI infrastructure role during a notice period. It sets a daily rhythm of hands-on building, DSA and scripting practice, applications and referrals, and interview revision, with weekly goals that move from resume cleanup through Python, Kubernetes, Terraform, GCP and MLOps to interview and offer sprints. Supporting files include a day-by-day roadmap, a CSV tracker, an application tracker, resume drafts and interview question banks.
+
+- **Built with:** Markdown, CSV
+- **Scope:** Personal career planning notes; there is no software to run.
+
 <!-- project-guide:start -->
 ## Project guide
 
